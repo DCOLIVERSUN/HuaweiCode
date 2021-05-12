@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/oliver_sun/CLionProjects/HW_warmup_match/lbfgs.h
+
+/Users/oliver_sun/CLionProjects/HW_warmup_match/main_317.cpp
+iostream
+-
+lbfgs.h
+/Users/oliver_sun/CLionProjects/HW_warmup_match/lbfgs.h
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/oliver_sun/CLionProjects/HW_warmup_match/test_317.cpp
+iostream
+-
+fcntl.h
+-
+sys/mman.h
+-
+unistd.h
+-
+vector
+-
+time.h
+-
+cmath
+-
+assert.h
+-
+
